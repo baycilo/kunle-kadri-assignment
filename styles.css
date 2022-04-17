@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+}
+
+div{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+section{
+	background-color: red;
+	box-sizing: border-box;
+	padding: 5px;
+	border: 1px solid black;
+	width: 30%;
+	float: left;
+	display: inline-block;
+	margin: auto 8px;
+	position: relative;
+	
+}
+
+h2{
+	box-sizing: border-box;
+	padding: 2px;
+	border: 2px solid black;
+	width: 45%;
+	position: absolute;
+	margin-left: 145px;
+	margin-top: 0.001px;
+
+}
+
+p{
+	margin-top: 40px;
+}
+
+.first{
+	background-color: blue;
+}
+
+.second{
+	background-color: yellow;
+}
+
+.third{
+	background-color: #ffffff;
+}
